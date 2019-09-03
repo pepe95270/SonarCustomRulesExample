@@ -1,0 +1,2 @@
+org\sonar\samples\javascript\checks\ForbiddenFunctionUseCheckTest.class
+org\sonar\samples\javascript\checks\OtherForbiddenFunctionUseCheckTest.class

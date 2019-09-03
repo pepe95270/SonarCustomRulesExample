@@ -1,0 +1,4 @@
+org\sonar\samples\javascript\checks\ForbiddenFunctionUseCheck.class
+org\sonar\samples\javascript\JavaScriptCustomRulesDefinition.class
+org\sonar\samples\javascript\JavaScriptCustomRulesPlugin.class
+org\sonar\samples\javascript\checks\OtherForbiddenFunctionUseCheck.class
